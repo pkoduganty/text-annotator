@@ -1,0 +1,364 @@
+risk planning mitigation |Risk Planning and Mitigation 			0.8165606748593242
+datum management |Data management 			0.02555329834876337
+work flow |Work flow 			0.5610276913716907
+specialist |Our IT specialists 			0.1367670579097166
+metadata management |Metadata Management 			0.5610276913716907
+multichannel strategy |Multichannel Strategy 			0.02555329834876337
+regulatory compliance |Regulatory Compliance 			0.02555329834876337
+management consulting |Management Consulting 			0.5610276913716907
+business technology alignment |Business Technology Alignment 			0.0
+business analytic |Business Analytics 			0.5610276913716907
+disaster recovery |Disaster Recovery 			0.5610276913716907
+customer management |Customer Management 			0.5610276913716907
+customer |Customer 			0.07319055080213928
+global outsourcing transformation |Global Outsourcing Transformation 			0.8165606748593242
+security management |Security management 			0.5610276913716907
+infrastructure assessment |Infrastructure assessment 			0.5610276913716907
+engineering manufacturing |Engineering and Manufacturing 			0.5610276913716907
+resource planning |Resource Planning 			0.04989304348616917
+business alignment study |Business Alignment Study 			0.8165606748593242
+resource management |Resource Management 			0.5610276913716907
+retirement consulting service |Retirement Consulting Services 			0.8165606748593242
+project control |Project Control 			0.5610276913716907
+unified network management |Unified Network Management 			0.8165606748593242
+corporate service |Corporate Services 			0.5610276913716907
+brand campaign management |Brand Campaign Management 			0.8165606748593242
+brand campaign |Brand Campaign 			0.02555329834876337
+service management |Service Management 			0.5610276913716907
+eai |EAI 			0.1367670579097166
+user acceptance |User Acceptance 			0.5610276913716907
+continuity planning |Continuity Planning 			0.02555329834876337
+network security design |Network Security Design 			0.8165606748593242
+system |System Testing 			0.07333944191948724
+business issue |Business Issues 			0.5610276913716907
+process modeling |Process Modeling 			0.5610276913716907
+quality |Quality 			0.07266943189142144
+content mgmt |Content Mgmt 			0.5610276913716907
+order processing fulfillment workflow |Order processing and fulfillment workflow 			1.0
+banking service |Banking Services 			0.5610276913716907
+technology assessment |Technology assessment 			0.5610276913716907
+business process |Business Process 			0.06206291605487213
+content design service |Content and Design Services 			0.8165606748593242
+secure internet gateway assessment |Secure Internet Gateway Assessment 			1.0
+feasibility study |Feasibility Study 			0.5610276913716907
+metadata mgmt |Metadata Mgmt 			0.5610276913716907
+datum quality management auditing |Data Quality Management and Auditing 			1.0
+staffing team development |Staffing and Team Development 			0.8165606748593242
+effort estimation |Effort Estimation 			0.5610276913716907
+requirement definition |Requirement Definition 			0.5610276913716907
+cost optimization |Cost Optimization 			0.5610276913716907
+oracle solution |Oracle Solutions 			0.5610276913716907
+asset wealth management |Asset Wealth Management 			0.8165606748593242
+logistics |Logistics 			0.0721483129807036
+strategic service |Strategic Services 			0.5610276913716907
+datum quality management |Data Quality Management 			0.0
+brand management |Brand Management 			0.5610276913716907
+business consultant |business consultants 			0.5610276913716907
+release planning |Release Planning 			0.5610276913716907
+application integration |Application Integration 			0.02555329834876337
+business operation |Business operations 			0.5610276913716907
+enterprise resource planning assessment |Enterprise Resource Planning assessment 			1.0
+contract management |Contract Management 			0.5610276913716907
+requirement specification |Requirement Specification 			0.5610276913716907
+virtualization |Virtualization 			0.0711060751592679
+architecture validation |Architecture Validation 			0.5610276913716907
+product service |New Products and Services 			0.02555329834876337
+information mgmt |Information Mgmt 			0.5610276913716907
+process study |Process Study 			0.5610276913716907
+manufacturing solution |Manufacturing Solutions 			0.5610276913716907
+asset retirement |Asset Retirement 			0.5610276913716907
+research development |Research and Development 			0.5610276913716907
+portfolio mgmt |Portfolio Mgmt 			0.5610276913716907
+datum mining |Data Mining 			0.5610276913716907
+defect prevention |Defect prevention 			0.5610276913716907
+project cost |Project Cost 			0.02555329834876337
+customer relationship management |Customer Relationship Management 			0.8165606748593242
+infrastructure |Infrastructure planning 			0.07298210323785215
+datum governance |Data Governance 			0.5610276913716907
+application design |Application Design 			0.5610276913716907
+project management |Project Management 			0.5610276913716907
+configuration build |Configuration and Build 			0.02555329834876337
+continuous order management efficiency |continuous order management efficiencies 			1.0
+application support |Application support 			0.5610276913716907
+market segmentation |Market Segmentation 			0.5610276913716907
+portfolio assessment |Portfolio assessment 			0.5610276913716907
+architecture |Architecture Restructuring 			0.07366429526642825
+project staffing |Project Staffing 			0.5610276913716907
+mainframe optimization |Mainframe Optimization 			0.5610276913716907
+consumer |Consumer Lending 			0.1367670579097166
+budgeting cost |Budgeting   Cost 			0.02555329834876337
+requirement analysis |Requirement Analysis 			0.5610276913716907
+secure compliance roadmap |Secure Compliance Roadmaps 			0.8165606748593242
+procurement |Procurement 			0.1367670579097166
+older system |older systems 			0.5610276913716907
+business consulting |Business Consulting 			0.5610276913716907
+enterprise analytic |Enterprise Analytics 			0.5610276913716907
+partner supplier |new partners and suppliers 			0.5610276913716907
+security planning |Security Planning 			0.5610276913716907
+end user computing |End User Computing 			0.8165606748593242
+future |Future 			0.1367670579097166
+merger acquisition planning |Merger and Acquisition Planning 			0.8165606748593242
+competitiveness |their competitiveness 			0.1367670579097166
+risk planning |Risk Planning 			0.02555329834876337
+compliance mgmt |Compliance Mgmt 			0.5610276913716907
+issue management |Issue Management 			0.5610276913716907
+migration assessment |Migration Assessment 			0.5610276913716907
+service mgmt |Service Mgmt 			0.5610276913716907
+investigative service |Investigative Services 			0.5610276913716907
+retirement solution |Retirement Solutions 			0.5610276913716907
+application service |Application Services 			0.5610276913716907
+project monitoring |Project Monitoring 			0.5610276913716907
+control |Control 			0.06797936169496081
+proposal response |Proposal Response 			0.5610276913716907
+operational effectiveness |Operational Effectiveness 			0.5610276913716907
+process transformation |Process transformation 			0.5610276913716907
+project budgeting |Project Budgeting 			0.5610276913716907
+enterprise system management |Enterprise System Management 			0.8165606748593242
+enterprise information management |Enterprise Information Management 			0.8165606748593242
+communication mgmt |Communication Mgmt 			0.5610276913716907
+system consolidation |Systems Consolidation 			0.5610276913716907
+cost |Cost 			0.07333944191948724
+process automation |Process Automation 			0.5610276913716907
+network management |Network management 			0.02555329834876337
+business continuity planning |Business Continuity Planning 			0.8165606748593242
+design service |Design Services 			0.02555329834876337
+directory service |Directory Services 			0.5610276913716907
+performance tuning porting service |Performance Tuning and Porting Services 			1.0
+process audit |Process Audit 			0.5610276913716907
+project delivery |Project Delivery 			0.02555329834876337
+datum quality |Data Quality 			0.04989304348616917
+epm |EPM 			0.1367670579097166
+storage management |Storage management 			0.5610276913716907
+architecture design |Architecture Design 			0.5610276913716907
+governance |Governance 			0.0721483129807036
+multichannel strategy planning |Multichannel Strategy   Planning 			0.8165606748593242
+disparate |disparate 			0.1367670579097166
+model |Operating Model 			0.06797936169496081
+system integration |System Integration |Systems Integration 			0.02555329834876337
+lan wan architecture |LAN   WAN Architecture 			0.8165606748593242
+application implementation |Application Implementation 			0.5610276913716907
+estimation |Estimation 			0.0711060751592679
+architecture audit |Architecture Audit 			0.5610276913716907
+post merger integration solution |Post Merger Integration Solution 			1.0
+enterprise system |Enterprise System 			0.02555329834876337
+business process expertise consulting |Business Process Expertise Consulting 			1.0
+multichannel planning |Multichannel Planning 			0.5610276913716907
+smart meter |Smart Meter 			0.5610276913716907
+central hub |a central hub 			0.5610276913716907
+advanced solution |Advanced Solutions 			0.5610276913716907
+transportation logistics |Transportation and Logistics 			0.5610276913716907
+order management application consolidation |Order management application consolidation 			1.0
+analysis |Value Analysis 			0.0721483129807036
+business |Business |New Business 			0.07388537601642975
+communication service |Communication Services 			0.5610276913716907
+analytic |Analytics 			0.07353796340928452
+technology audit |Technology Audit 			0.5610276913716907
+business technology alignment study |Business Technology Alignment Study 			1.0
+integration |Integration Testing 			0.07333944191948724
+business process management |Business Process Management 			0.8165606748593242
+performance |Performance Tuning |Performance Testing 			0.0721483129807036
+process assessment |Process assessment 			0.5610276913716907
+cost estimation |Cost Estimation 			0.5610276913716907
+crm |CRM 			0.06797936169496081
+application portfolio rationalization |Application Portfolio Rationalization 			0.8165606748593242
+application evaluation |Application Evaluation 			0.5610276913716907
+asset mgmt |Asset Mgmt 			0.5610276913716907
+manufacturing logistics |Manufacturing and Logistics 			0.5610276913716907
+management reporting |Management Reporting 			0.5610276913716907
+supply chain management |Supply Chain Management 			0.8165606748593242
+server rationalization |Server Rationalization 			0.5610276913716907
+requirement engineering |Requirement Engineering 			0.5610276913716907
+system integration consolidation |Systems Integration   Consolidation 			0.8165606748593242
+network convergence |Network and Convergence 			0.5610276913716907
+transformation |Outsourcing Transformation |B2C Transformation |B2B Transformation 			0.07298210323785215
+wealth management |Wealth Management 			0.02555329834876337
+recovery |recovery 			0.06797936169496081
+performance improvement |Performance Improvement 			0.5610276913716907
+program delivery |Program Delivery 			0.5610276913716907
+unit |Unit Testing 			0.1367670579097166
+project risk management |Project Risk Management 			0.8165606748593242
+service |Reengineering Services |Testing Services 			0.07400118021881148
+enterprise portfolio management |Enterprise Portfolio Management 			0.8165606748593242
+inventory management |Inventory Management 			0.5610276913716907
+risk analysis |Risk Analysis 			0.5610276913716907
+health mgmt |Health Mgmt 			0.5610276913716907
+regulatory compliance change management |Regulatory Compliance Change Management 			1.0
+business roadmap |Business Roadmap 			0.5610276913716907
+technology transformation |New Technology Transformation |Technology Transformation 			0.5610276913716907
+operation governance |Operations governance 			0.5610276913716907
+store operation |Store Operations 			0.5610276913716907
+financial mgmt |Financial Mgmt 			0.5610276913716907
+operational efficiency |Operational Efficiency 			0.5610276913716907
+organization change management |Organization change management 			0.8165606748593242
+merger acquisition strategy assessment |Merger and Acquisition Strategy Assessment 			1.0
+financial management |Financial Management 			0.5610276913716907
+datum center |Data Center 			0.5610276913716907
+master datum mgmt |Master Data Mgmt 			0.8165606748593242
+cloud enablement |Cloud Enablement 			0.5610276913716907
+master datum management |Master Data Management 			0.8165606748593242
+engineering solution |Engineering Solutions 			0.5610276913716907
+rating service |Rating Services 			0.5610276913716907
+server management |Server management 			0.5610276913716907
+architecture consulting |Architecture Consulting 			0.5610276913716907
+program design |Program Design 			0.5610276913716907
+cost management |Cost management 			0.04989304348616917
+contract mgmt |Contract Mgmt 			0.5610276913716907
+platform |Platform Reengineering 			0.1367670579097166
+health intelligence |Health Intelligence 			0.5610276913716907
+program mgmt |Program Mgmt 			0.5610276913716907
+logistics early warning system |Logistics and Early Warning Systems 			1.0
+asset wealth |Asset Wealth Mgmt 			0.02555329834876337
+porting service |Porting Services |Reengineering and Porting Services 			0.02555329834876337
+customer solution |Customer Solutions 			0.5610276913716907
+privacy |Privacy 			0.1367670579097166
+banking financial service |Banking and Financial Services 			0.8165606748593242
+team member |Our team members 			0.5610276913716907
+health |Health Check 			0.07266943189142144
+information management |Information Management 			0.02555329834876337
+inventory mgmt |Inventory Mgmt 			0.5610276913716907
+wealth mgmt |Wealth Mgmt 			0.5610276913716907
+configuration support |Configuration support 			0.5610276913716907
+functional consulting |Functional Consulting 			0.5610276913716907
+operation audit |Operation Audit 			0.5610276913716907
+product service solution |New Products and Services Solution 			0.8165606748593242
+build management |Build Management 			0.02555329834876337
+asset management |Asset Management |Asset management 			0.5610276913716907
+planning |M A Planning 			0.07378611527153112
+churn analytic |Churn Analytic 			0.5610276913716907
+configuration build management |Configuration and Build Management 			0.8165606748593242
+delivery |Delivery 			0.07266943189142144
+web analytic |Web Analytics 			0.5610276913716907
+clinical operation |Clinical Operations 			0.5610276913716907
+csp |CSPs 			0.19930132719585822
+delivery management |Delivery Management 			0.02555329834876337
+compliance assessment |Compliance Assessment 			0.5610276913716907
+network vulnerability assessment |Network Vulnerability Assessment 			0.8165606748593242
+business process consulting |Business Process Consulting 			0.8165606748593242
+content management |Content Management 			0.5610276913716907
+collaboration |collaboration 			0.1367670579097166
+enterprise messaging |Enterprise Messaging 			0.5610276913716907
+superior customer service |superior customer service 			0.8165606748593242
+research innovation |Research and Innovation 			0.5610276913716907
+moment |the moment 			0.1367670579097166
+capacity planning |Capacity Planning 			0.5610276913716907
+datum |Data |Data Warehousing |data 			0.07366429526642825
+warranty support |Warranty Support 			0.5610276913716907
+post merger integration |Post Merger Integration 			0.0
+budgeting cost management |Budgeting   Cost management 			0.8165606748593242
+project accounting |Project Accounting 			0.5610276913716907
+strategy assessment |M A Strategy Assessment 			0.02555329834876337
+content service |Content Services 			0.5610276913716907
+program rescue |Program Rescue 			0.5610276913716907
+test consulting solution |Test Consulting and Solutions 			0.8165606748593242
+portal development |Portal Development 			0.5610276913716907
+supply chain transformation |Supply Chain Transformation 			0.8165606748593242
+industry solution |Industry Solutions 			0.5610276913716907
+system management |Systems Management 			0.02555329834876337
+portfolio optimization |Portfolio Optimization 			0.5610276913716907
+project mgmt |Project Mgmt 			0.5610276913716907
+backup |Backup 			0.1367670579097166
+claim analytic |Claims Analytic 			0.5610276913716907
+application management |Application Value Management 			0.5610276913716907
+health management |Health Management 			0.5610276913716907
+product design |Product Design 			0.5610276913716907
+infrastructure security |Infrastructure Security 			0.5610276913716907
+network security |Network Security 			0.02555329834876337
+desktop service |Desktop Services 			0.5610276913716907
+security architecture |Security Architecture 			0.5610276913716907
+partner supplier management |Partner and supplier management 			0.8165606748593242
+unified communication |Unified Communications 			0.5610276913716907
+customer service |Customer Self Service 			0.5610276913716907
+mobilization service |Mobilization Service 			0.5610276913716907
+competitive market |hotly competitive markets 			0.5610276913716907
+process |Process 			0.07366429526642825
+governance risk |Governance Risk 			0.5610276913716907
+application development |Application Development 			0.5610276913716907
+merchandise management |Merchandise Management 			0.5610276913716907
+knowledge elicitation |Knowledge Elicitation 			0.5610276913716907
+efficiency |Efficiency 			0.06797936169496081
+peopleprocesstechnology roadmap |PeopleProcessTechnology roadmap 			0.5610276913716907
+change mgmt |Change Mgmt 			0.5610276913716907
+business intelligence |Business Intelligence 			0.5610276913716907
+predictive analytic |Predictive Analytics 			0.5610276913716907
+manufacturing |Manufacturing 			0.0721483129807036
+business process expertise |Business Process Expertise 			0.0
+technology |Technology 			0.07319055080213928
+functional |Functional Testing 			0.06797936169496081
+project scheduling |Project Scheduling 			0.5610276913716907
+build mgmt |Build Mgmt 			0.5610276913716907
+project cost management |Project Cost management 			0.8165606748593242
+supply chain analytic |Supply Chain Analytics 			0.8165606748593242
+quality management |Quality Management 			0.04989304348616917
+vendor liaison |Vendor liaison 			0.5610276913716907
+datum auditing |Data Auditing 			0.5610276913716907
+compliance management |Compliance Management 			0.5610276913716907
+cryptograph |Cryptograph 			0.1367670579097166
+network architecture |Network Architecture 			0.5610276913716907
+architecture formulation |Architecture Formulation 			0.5610276913716907
+customer analytic |Customer Analytics 			0.5610276913716907
+project delivery management |Project Delivery Management 			0.8165606748593242
+configuration management |Configuration Management 			0.5610276913716907
+work |Work 			0.07353796340928452
+microsoft sharepoint |Microsoft Sharepoint 			0.5610276913716907
+program management |Program Management 			0.5610276913716907
+inefficiency |serious inefficiencies 			0.1367670579097166
+portal |Portals 			0.0711060751592679
+datum architecture |Data Architecture 			0.5610276913716907
+enterprise |Enterprise Computing 			0.07353796340928452
+database management |Database management 			0.5610276913716907
+order entry management |order entry management 			0.8165606748593242
+customer relationship |Customer Relationship 			0.02555329834876337
+application audit |Application Audit 			0.5610276913716907
+security service |Security Services 			0.5610276913716907
+program health |Program Health 			0.5610276913716907
+infrastructure service |Infrastructure Services 			0.5610276913716907
+business transformation |Business Transformation 			0.5610276913716907
+architecture assessment |Architecture Assessment 			0.5610276913716907
+project planning |Project Planning 			0.5610276913716907
+communication service provider csp |Communication Service Providers  CSPs 			1.0
+extract transform load |Extract Transform Load 			0.8165606748593242
+financial service |Financial Services 			0.02555329834876337
+campaign management |Campaign Management 			0.02555329834876337
+application deployment |Application Deployment 			0.5610276913716907
+current order management system |your current order management systems 			1.0
+portal deployment |Portal Deployment 			0.5610276913716907
+order service management |Order and service management 			0.8165606748593242
+campaign mgmt |Campaign Mgmt 			0.5610276913716907
+fraud management |Fraud Management 			0.5610276913716907
+alignment |alignment 			0.0721483129807036
+enterprise application integration |Enterprise Application Integration 			0.8165606748593242
+clinical safety operation |Clinical   Safety Operations 			0.8165606748593242
+impact analysis |Impact Analysis 			0.5610276913716907
+communication management |Communication Management 			0.5610276913716907
+issue |Issue 			0.0711060751592679
+user interface design |User Interface Design 			0.8165606748593242
+brand mgmt |Brand Mgmt 			0.5610276913716907
+bid management |Bid Management 			0.5610276913716907
+legacy modernization |Legacy Modernization 			0.5610276913716907
+risk |Risk 			0.07333944191948724
+virtualization service |Virtualization Services 			0.5610276913716907
+architecture evaluation |Architecture Evaluation 			0.5610276913716907
+digital security |Digital Security 			0.5610276913716907
+accessible |accessible 			0.1367670579097166
+telecom analytic |Telecom Analytics 			0.5610276913716907
+portfolio diversification |Portfolio Diversification 			0.5610276913716907
+healthcare |Healthcare 			0.1367670579097166
+business integration |Business Integration 			0.5610276913716907
+application |Application |Application Value |Application Reengineering 			0.07371166971285714
+risk management |Risk Management 			0.02555329834876337
+change management |Change Management 			0.04989304348616917
+configuration mgmt |Configuration Mgmt 			0.5610276913716907
+development implementation |Development and Implementation 			0.5610276913716907
+social crm |Social CRM 			0.5610276913716907
+infrastructure relocation |Infrastructure Relocation 			0.02555329834876337
+program office |Program Office 			0.5610276913716907
+enterprise resource planning |Enterprise Resource Planning 			0.0
+performance management |Performance Management 			0.5610276913716907
+implementation |Package Implementation 			0.0711060751592679
+network virtualization |Network Virtualization 			0.5610276913716907
+specification |Specification 			0.06797936169496081
+portfolio management |Portfolio Management 			0.04989304348616917
+business infrastructure relocation |Business Infrastructure Relocation 			0.8165606748593242
+hospitality service |Hospitality Services 			0.5610276913716907
+risk mitigation |Risk Mitigation 			0.5610276913716907
+portfolio management optimization |Portfolio Management and Optimization 			0.8165606748593242

@@ -1,0 +1,188 @@
+•  Cognizant Case Study
+
+UK Bank Hits Peak Performance  
+with Cognizant TEMS
+
+Achieving  flexibility  in  today’s  IT  environment  is 
+essential  to  business  efficiency  and  competitive 
+health.  The  demands  for  faster  time-to-market  
+strain service delivery platforms to meet business 
+goals, control costs and achieve high performance. 
+When new strategies are adopted, a stable, reliable 
+IT test environment is critical to success.
+
+Our  work  with  one  of  the  UK’s  leading,  London-
+based  banks  offers  a  case  in  point.  The  client 
+leveraged  our 
+ITIL-based  Test  Environment 
+Management  Services  (TEMS)  process  framework 
+and  the  customizable  controls  and  data  points 
+needed  to  achieve  significant  improvements  in 
+software  application  testing  projects.  The  result: 
+new  efficiencies  in  an  increasingly  competitive 
+banking and financial industry.
+
+The Client: A Top-5 UK  
+Banking Institution
+Mergers  and  acquisitions  in  the  UK  banking 
+industry  have  changed  the  market’s  competitive 
+landscape  dramatically  in  recent  years.  One  of 
+the  market’s  top-5  players  in  this  environment, 
+a  London-based  bank  specializing  in  corporate 
+and  retail  products  including  numerous  leading 
+brands, has become well known in the High Street 
+
+and mortgage market.  To  improve  its  competitive 
+readiness  in  this  changing  environment,  the  bank 
+hired us to implement a TEMS framework.
+
+The Challenge: M&A Activities  
+Stretching the IT Environment
+Remaining  in  compliance  while  also  maintaining 
+a  competitive  business  stance  has  become more 
+challenging  in  the  UK  banking  industry  due  to 
+recent M&A activities. Our client’s IT systems and 
+application integration needed a more productive, 
+predictable  way  of  delivering  tested  applications 
+and products in a timely manner. 
+
+Testing is critical to eliminating negative business 
+impacts due  to  faulty applications. Our discovery 
+showed  that  test  data  and  environment  issues 
+were often increasing costs or reducing test cases 
+to  accommodate  time  lost  in  problem  resolution. 
+With  literally  hundreds  of  people  involved  in  the 
+process,  the  bank  needed  a  single  point-of-con-
+tact  to  manage  the  changes  and  create  a  stable 
+environment.  The  new  framework  would  have  to 
+accommodate  24/7  service  in  multiple  locations 
+worldwide,  while  providing  visibility  and  perfor-
+mance as improvements were deployed.
+
+cognizant case study | april 2011
+
+Environment build and delivery
+
+Incident lifecycle management
+
+Configuration management
+
+Environment architecture and design
+
+The Solution: Cognizant’s TEMS 
+Framework
+• 
+Environment strategy
+• 
+• 
+• 
+• 
+Our global delivery model ensured 24/7 support, 
+as  we  effectively  transferred  the  work  to  the 
+client’s internal teams and helped them accurately 
+track progress for improved quality and decision-
+making.  Through  our  single  point-of-contact,  key 
+stages of the process were effectively controlled, 
+helping the bank establish full functionality within 
+six months.
+
+The Benefits: Increased Clarity,  
+Confidence and Cost Control
+Our  TEMS  framework  is  now  helping  the  bank 
+deliver  fully  tested  projects  efficiently  and  on 
+time.  With  ongoing  ownership  and  maintenance 
+as  a  benefit,  the  central  team  can  keep  environ-
+ments  up  to  date  so  that  projects  are  delivered 
+quicker.  Confidence  has  increased  as  a  result  of 
+predictable start and end dates. Project visibility, 
+
+including  key  performance  indicators,  has  estab-
+lished  effective  budget  control  and 
+incident 
+management. The result is improved test environ-
+ment availability, with an average uptime of 90% 
+vs. 65% to 68% before the TEMS framework was 
+implemented.
+
+Client Benefits
+• 
+
+Single point-of-contact for issue 
+resolution
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Design validation for  
+“Best in Class” TEMS
+
+Incident management and  
+root cause analysis
+
+Availability metrics through daily  
+standardized reports
+
+Intra-day SMS reporting for  
+environmentimpacts
+
+Reduced delays leading to greater  
+test coverage
+
+Efficient test windows for  
+confidence in uptime
+
+Start Today
+At  a  time  when  companies  are  relentlessly  pushing  to  compete  better,  move  faster  and  fight  harder, 
+Cognizant  is  the  global  technology  partner  with  a  single-minded  passion:  Dedicating  our  systems 
+expertise, industry intelligence, and global resources to make your business stronger.
+
+About Cognizant
+
+Cognizant (Nasdaq: CTSH) is a leading provider of information technology, consulting,and business process outsourc-
+ing services, dedicated to helping the world’s leading companies build stronger businesses. Headquartered in Teaneck,  
+N.J., Cognizant combines a passion for client satisfaction, technology innovation, deep industry and business process 
+expertise and a global, collaborative workforce that embodies the future of work. With over 50 delivery centers world-
+wide and approximately 104,000 employees as of December 31, 2010, Cognizant is a member of the NASDAQ-100, the 
+S&P 500, the Forbes Global 2000, and the Fortune 1000 and is ranked among the top performing and fastest growing 
+companies in the world.
+
+Visit us online at www.cognizant.com for more information.
+
+World Headquarters
+500 Frank W. Burr Blvd.
+Teaneck, NJ 07666 USA
+Phone: +1 201 801 0233
+Fax: +1 201 801 0243
+Toll Free: +1 888 937 3277
+Email: inquiry@cognizant.com
+
+European Headquarters
+Haymarket House
+28-29 Haymarket
+London SW1Y 4SP  UK
+Phone: +44 (0) 20 7321 4888
+Fax: +44 (0) 20 7321 4890
+Email: infouk@cognizant.com
+
+India Operations Headquarters
+#5/535, Old Mahabalipuram Road
+Okkiyam Pettai, Thoraipakkam
+Chennai, 600 096 India
+Phone: +91 (0) 44 4209 6000
+Fax: +91 (0) 44 4209 6060
+Email: inquiryindia@cognizant.com
+
+  © Copyright 2011, Cognizant. All rights reserved. No part of this document may be reproduced, stored in a retrieval system, transmitted in any form or by any 
+means, electronic, mechanical, photocopying, recording, or otherwise, without the express written permission from Cognizant. The information contained herein is 
+subject to change without notice. All other trademarks mentioned herein are the property of their respective owners.
+
+

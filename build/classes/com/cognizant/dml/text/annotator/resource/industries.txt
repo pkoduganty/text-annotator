@@ -1,0 +1,392 @@
+Accessory
+Accessory Store
+Accountancy firms
+Advertising
+Aerospace
+Agency
+Agricultural Chemicals
+Agriculture
+Agriculture 
+Air Freight
+Airlines
+Alternative Electricity
+Alternative Fuels
+Aluminum
+Apparel
+Apparel Retailers
+Asset Managers
+Auction house
+Auto Manufacturing
+Automobiles
+Automotive
+Automotive 
+Automotive Aftermarket
+Auto Parts
+Auto Parts:O.E.M.
+Bank
+Basic Industry
+Beverages
+Biological Products
+Biological Research
+Biotechnology
+Book Publisher
+Brewers
+Broadcasting
+Broadcasting & Entertainment
+Broadline Retailers
+Building Materials
+Building Materials & Fixtures
+Building operators
+Building Products
+Business Services
+Business Support Services
+Business Training & Employment Agencies
+Business Process Outsourcing
+BPO
+Capital Goods
+Capital Market
+Casualty Insurers
+Catalog Distribution
+Chartered 
+Chartered Accountant
+Chemical 
+Chemicals
+Classification societies
+Clothing
+Clothing & Accessories
+Clothing/Shoe/Accessory Stores
+Clothing Store
+Coal
+Coal Mining
+Coatings
+Commercial Bank
+Commercial Service
+Commercial Vehicles & Trucks
+Commodity Chemicals
+Communications
+Communications Equipment
+Company Bonds
+Computer Communications
+Computer Communications Equipment
+Computer Hardware
+Computer Manufacturing
+Computer peripheral
+Computer Programming
+Computer Services
+Computer Software
+Computer Software: Prepackaged Software
+Computer Software: Programming, Data Processing
+Conglomerate 
+Construction Company
+Construction Equipment
+Consumer Appliance
+Consumer Electronics
+Consumer Electronics/Appliance
+Consumer Finance
+Consumer Services
+Consumer Specialties
+Containers & Packaging
+Containers/Packaging
+Convertibles
+Cosmetics 
+Courier
+Courier Services
+Data Processing
+Debentures & Loans
+Defence
+Delivery Services
+Dental
+Dental 
+Department Retail Store
+Department/Specialty Retail Store
+Department Store
+Diamonds & Gemstones
+Distillers & Vintners
+Distributors
+Diversified Commercial Service
+Diversified Industrials
+Diversified REITs
+Diversified Service
+Dredging 
+Drug Retailers
+Durable Household Products
+E-Commerce
+EDP Services
+Education Provider
+Electrical Components & Equipment
+Electrical Products
+Electricity
+Electric Utilities
+Electronic Components
+Electronic Data Processing
+Electronic Data Processing Services
+Electronic Equipment
+Electronic Product
+Electronics Distribution
+Employment agencies
+Energy
+Energy 
+Engineering Company
+Engineering Service
+Engineering Vendor
+Entertainment
+Environmental Services
+Equity Investment Instruments
+Event management 
+Exploration & Production
+Fabrications
+Farming
+Farming & Fishing
+Farming/Seeds/Milling
+Finance Companies
+Finance Company
+Finance/Investors Services
+Financial
+Financial Administration
+Financial Company 
+Financial Service
+Financial Services
+Fixed Line Telecommunications
+Fluid Controls
+Food Business
+Food Chains
+Food Distributors
+Food Products
+Food Retailers & Wholesalers
+Foods
+Footwear
+Forest products 
+Forest Products
+Forestry
+Freight
+Freight Services
+Full Line Insurance
+Furnishings
+Gambling
+Gas Distribution
+Gas Production
+General Bldg Contractors
+General Mining
+Geophysical 
+Gold Mining
+Government
+Health Care
+Health Care Providers
+Health Insurance
+Heavy Construction
+Homebuilding
+Home Construction
+Home Furnishings
+Home Improvement Retailers
+Horticultural 
+Hospital
+Hospitality 
+Hospital Management
+Hospital/Nursing Management
+Hotels
+Hotels/Resorts
+Industrial
+Industrial Components
+Industrial Machinery
+Industrial Machinery/Components
+Industrial & Offices REITs
+Industrial Specialties
+Industrial Suppliers
+Industrial supply 
+Insurance
+Insurance Brokers
+Insurers
+Integrated Oil & Gas
+Investment Bank
+Investment Bankers
+Investment Bankers/Brokers/Service
+Investment Brokers
+Investment Managers
+Investment Service
+Investment Services
+Investor Services
+Iron
+Iron Ore
+IT Vendor
+Jewellery 
+Leasing
+Leasing Companies
+Life Insurance
+Machinery
+Magazine
+Magazines Publisher
+Manufacturing
+Manufacturing 
+Marine
+Marine Transportation
+Meat/Poultry/Fish
+Media Agencies
+Medical
+Medical/Dental Instruments
+Medical Electronics
+Medical Equipment
+Medical/Nursing Services
+Medical Services
+Medical Specialities
+Medical Supplies
+Metal Fabrications
+Meteorological 
+Military
+Military/Government/Technical
+Milling
+Minerals
+Mining 
+Mobile Telecommunications
+Model agencies
+Motorsport
+Motor Vehicles
+Movies/Entertainment
+Multi-Sector
+Multi-Sector Companies
+Multiutilities
+Museum 
+Natural Gas
+Newspaper
+Newspaper Publisher
+News Publisher
+Newswire
+Nondurable Household Products
+Nonequity Investment Instruments
+Nonferrous Metals
+Nursing
+Nursing Management
+Nursing Services
+Office Equipment
+Office Equipment/Supplies/Services
+Office Services
+Office Supplies
+Oil Companies
+Oil Company
+Oil Equipment & Services
+Oilfield
+Oilfield Equipment
+Oilfield Services
+Oilfield Services/Equipment
+Oil & Gas
+Oil & Gas Production
+Oil Production
+Online banks
+Online brokerages
+Online dating services
+Online gambling companies
+Online insurance companies
+Online publishers
+Online real estate companies
+Online retailers
+Online travel agencies
+Package Cosmetics 
+Packaged Foods
+Package Goods 
+Packaging
+Paints
+Paints/Coatings
+Paper
+Personal Products
+Personal service 
+Pharma
+Pharmaceutical 
+Pharmaceuticals
+Plastic Products
+Plastics 
+Platinum & Precious Metals
+Political risk consulting firms
+Polling 
+Pollution Control Equipment
+Power Generation
+Precious Metals
+Precision Instruments
+Prepackaged Software
+Product Development
+Product Vendor
+Professional Services
+Property & Casualty Insurance
+Property-Casualty Insurers
+Property Insurers
+Providers of services to on-line companies
+Public relations 
+Public utilities
+Public Utilities
+Publishing
+Publishing 
+Quarrying
+Radio
+Radio And Television
+Radio And Television Broadcasting
+Radio And Television Broadcasting And Communications Equipment
+Radio Broadcasting
+Radio & Television
+Radio & Television Broadcasting
+Railroads
+Real estate 
+Real Estate
+Real Estate Holding & Development
+Real Estate Investment
+Real Estate Investment Trusts
+Real Estate Services
+Recreational Products
+Recreational Products/Toys
+Recreational Services
+Reinsurance
+Renewable Energy Equipment
+Rental
+Rental Companies
+Rental/Leasing Companies
+Research support 
+Resorts
+Restaurant
+Restaurant Company
+Restaurants & Bars
+Retail
+Retail REITs
+Retail Store
+Savings Institutions
+Semiconductors
+Shoe
+Shoe Manufacturing
+Shoe Store
+Soft Drinks
+Software Services
+Software Vendor
+Speciality REITs
+Specialized Consumer Services
+Specialty Chemicals
+Specialty Distribution
+Specialty Finance
+Specialty Insurers
+Specialty Retailers
+Specialty Retail Store
+Specialty Stores
+Steel
+Steel/Iron Ore
+Steel Ore
+Technology Industry
+Telecommunications
+Telecommunications Equipment
+Television
+Television Broadcasting
+Television Services
+Textile 
+Textiles
+Tires
+Tobacco
+Toys
+Transport 
+Transportation
+Transportation Services
+Travel and holiday 
+Travel and Hospitality 
+Travel & Tourism
+Trucking
+Trucking Freight/Courier Services
+Trucking Services
+Type foundries
+Waste & Disposal Services
+Water
+Water Supply
+Wholesale Distributors
+Wholesalers

@@ -1,0 +1,28 @@
+The DBpedia Ontology is a shallow, cross-domain ontology, which has been manually created based on the most commonly used infoboxes within Wikipedia. 
+The ontology currently covers 359 classes which form a subsumption hierarchy and are described by 1,775 different properties.<br />
+<a name="p33738-2"></a><p class="auto" id="p33738-2">With the DBpedia 3.2 release, we introduced a new infobox extraction method
+which is based on hand-generated mappings of Wikipedia infoboxes to the DBpedia ontology. The mappings define fine-granular rules on how
+to parse infobox values. The mappings also address weaknesses in the Wikipedia infobox system, like having different infoboxes 
+for the same class, using different property names for the same property, and not having clearly defined datatypes for property
+values. Therefore, the instance data within the infobox ontology is much cleaner and better structured than the infobox data
+within the DBpedia infobox dataset which is generated using the old infobox extraction code.</p><br /><a name="p33738-3"></a>
+<p class="auto" id="p33738-3">With the DBpedia 3.5 release, we introduced a 
+<a href="http://mappings.dbpedia.org" target="_blank" title="Outgoing link (in new window)" class="outerlink">
+<img src="http://wiki.dbpedia.org/themes/dbpedia2007/icons/world_link.png" alt="" class="contexticon" />public wiki</a>
+for writing infobox mappings, editing existing ones as well as editing the DBpedia ontology. This allows external contributors 
+to define mappings for the infoboxes they are interested in and to extend the existing DBpedia ontology with additional classes 
+and properties.</p><br /><a name="p33738-4"></a><p class="auto" id="p33738-4">Since the DBpedia 3.7 release, the ontology 
+is a directed-acyclic graph, not a tree. Classes may have multiple superclasses, which was important for the mappings to 
+<a href="http://schema.org" target="_blank" title="Outgoing link (in new window)" class="outerlink">
+<img src="http://wiki.dbpedia.org/themes/dbpedia2007/icons/world_link.png" alt="" class="contexticon" />schema.org</a>. 
+A taxonomy can still be constructed by ignoring all superclasses but the one that is specified first in the list and is considered 
+the most important.</p><br /><a name="p33738-5"></a><p class="auto" id="p33738-5">
+<a href="http://mappings.dbpedia.org/server/ontology/classes" target="_blank" title="Outgoing link (in new window)" class="outerlink">
+<img src="http://wiki.dbpedia.org/themes/dbpedia2007/icons/world_link.png" alt="" class="contexticon" />Browse the current version of the Ontology</a>
+as defined in the <a href="http://mappings.dbpedia.org/index.php/Main_Page" target="_blank" title="Outgoing link (in new window)" class="outerlink">
+<img src="http://wiki.dbpedia.org/themes/dbpedia2007/icons/world_link.png" alt="" class="contexticon" />Mapping Wiki</a></p><br />
+<a name="p33738-6"></a><p class="auto" id="p33738-6">See also the 
+<a href="http://mappings.dbpedia.org/index.php/Mapping_Statistics" target="_blank" title="Outgoing link (in new window)" class="outerlink">
+<img src="http://wiki.dbpedia.org/themes/dbpedia2007/icons/world_link.png" alt="" class="contexticon" />mapping statistics</a>.
+</p><br /><a name="p33738-7"></a><p class="auto" id="p33738-7">The DBpedia Ontology currently contains about 2,350,000 instances. 
+The table below lists the number of instances for several <currently >classes</currently > within the ontology:</p><br />

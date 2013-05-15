@@ -1,0 +1,230 @@
+•  Cognizant Case Study
+
+Transforming a Telecom Service Provider’s 
+Test Environment for Maximum  
+Responsiveness and Efficiency
+
+Business Situation 
+Developing a next-generation CRM system requires 
+next-generation  test  environment  management 
+support (TEMS). That was what one  large  interna-
+tional  telecom  service  provider  required  to  equip 
+several European offices for competitive success.
+
+Having worked with us on previous service support 
+initiatives,  the  company  recognized  our  proven 
+expertise in Siebel CRM technology. Its then current 
+Siebel environment presented challenges, and the 
+client  needed  a  number  of  updated  applications 
+and  a  quick  deployment.    The  company  turned  to 
+us for help. 
+
+Challenge
+Our  client’s  scope  of  work  challenged  us  to  
+focus on:
+• 
+
+Reducing manual processes through standard-
+ization/automation. 
+Extending support coverage.
+Ensuring  high  availability  of  development/
+testing environments.
+Providing 
+seamless  coordination  among 
+developers, testers and vendors/partners.
+Effectively  managing  emergency  requests 
+during  off  business  hours,  including  critical 
+patching, package deployment, hot fixes, etc.
+
+• 
+• 
+
+• 
+
+• 
+
+testing  and  environment  management  services, 
+with  minimum  disruption  to  daily  business 
+activities in a rapid and robust fashion by following 
+best practices for change management.  
+
+Solution
+Working  closely  with  our  client’s  IT  services 
+department,  we  implemented  a  TEMS  transfor-
+mation  roadmap  by  applying  a  combination  of 
+consulting  and  managed  services,  from  initial 
+portfolio  analysis  and  planning  to  ongoing  opera-
+tional  support. A  real-time project dashboard was 
+provided to support day-to-day tracking of project 
+milestones  and  metrics,  while  an 
+integrated 
+delivery model synthesized  the efforts of multiple 
+project teams. In total, our transformation roadmap 
+addressed the following:
+• 
+
+Environment  monitoring  and  management 
+(hardware,  networking,  systems  software  and 
+applications).
+Infrastructure monitoring  (servers, databases, 
+mainframes, etc.).
+Service request management (issue resolution 
+and coordination).
+Release  management  (systematic  updates, 
+terminations and reports).
+New  environment  setup  (service  on-boarding 
+and built-out).
+
+• 
+
+• 
+
+• 
+
+• 
+
+Our  client  services  team  responded  with  an 
+end-to-end  solution  that  supported  development, 
+
+Within  three  months,  we  had  transferred  the 
+knowledge base  to  the appropriate  infrastructure, 
+
+cognizant case study | july 2011
+
+transitioned core process responsibilities to virtual 
+locations  and  began  optimizing  operations  in 
+real-time, with help-desk support available around-
+the-clock.
+
+Extended coverage supported all phases of instal-
+lation  and  deployment,  including  configuration, 
+migration  and  troubleshooting  through  envi-
+ronment  management.  In  addition,  we  created 
+multiple  user  tools  and  scripts  to  automate 
+the  process,  reducing  manual  intervention  and 
+process  errors.  Using  a  single  point-of-contact 
+for  all  requirements  and  queries,  our  TEMS 
+engagement  effectively  addressed  our  client’s 
+key  business  challenges  and  delivered  a  solution 
+that far exceeded expectations.
+
+Benefits
+The cost benefit of implementing our TEMS trans-
+formation  roadmap  provided  our  client  a  value 
+greater than expected on several counts.
+• 
+
+Health  check  automation  reduced  manual 
+efforts by 70%.
+
+• 
+
+• 
+
+• 
+
+• 
+
+Siebel Diagnostic Tool reduced incident tickets 
+by nearly 20%.
+
+ADM Framework improved efficiency and error 
+handling by 40%.
+
+Application server installation reduced manual 
+efforts by 50%.
+
+Extended support coverage provided:
+ >
+
+24x7 environment management.
+
+Siebel 8.x
+Informatica Power Center
+Oracle App Server
+Oracle Business Intelligence
+Glassfish App Server
+Oracle Fusion Middleware & MQ Series
+IBM AIX 6.1 / Sun Solaris
+SJS Portal Server & Directory Server
+SVN 1.4 administration
+Fuzzy Server
+
+Tools and Technologies
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Our  “tools  agnostic”  framework  allowed 
+us  to  leverage  the  client’s  existing  assets, 
+lowering  its  total  cost  of  ownership  in  a 
+final solution.
+
+ >
+
+ >
+
+13x5  installation,  deployment,  configura-
+tion,  migration  and  troubleshooting  assis-
+tance.
+
+16x5  test  and  development  environment 
+support.
+
+Providing  excellent  team  leadership,  clear  docu-
+mentation  and  proven,  step-by-step  process 
+mapping,  our  team  helped  this  telecommunica-
+tions  service  provider  accelerate  its  payback, 
+reduce service interruptions and improve quality of 
+service in a next-generation CRM roll-out achieved 
+in record time.  
+
+Start Today
+At  a  time  when  companies  are  relentlessly  pushing  to  compete  better,  move  faster  and  fight  harder, 
+Cognizant  is  the  global  technology  partner  with  a  single-minded  passion:  Dedicating  our  systems 
+expertise, industry intelligence, and global resources to make your business stronger.
+
+About Cognizant
+Cognizant  (NASDAQ:  CTSH)  is  a  leading  provider  of  information  technology,  consulting,  and  business  process  out-
+sourcing  services,  dedicated  to  helping  the  world’s  leading  companies  build  stronger  businesses.  Headquartered  in 
+Teaneck, New Jersey (U.S.), Cognizant combines a passion for client satisfaction, technology innovation, deep industry 
+and business process expertise, and a global, collaborative workforce that embodies the future of work. With over 50 
+delivery centers worldwide and approximately  111,000 employees as of March 31, 2011, Cognizant  is a member of  the 
+NASDAQ-100, the S&P 500, the Forbes Global 2000, and the Fortune 500 and is ranked among the top performing and 
+fastest growing companies in the world. Visit us online at www.cognizant.com or follow us on Twitter: Cognizant.
+
+World Headquarters
+500 Frank W. Burr Blvd.
+Teaneck, NJ 07666 USA
+Phone: +1 201 801 0233
+Fax: +1 201 801 0243
+Toll Free: +1 888 937 3277
+Email: inquiry@cognizant.com
+
+European Headquarters
+Haymarket House
+28-29 Haymarket
+London SW1Y 4SP  UK
+Phone: +44 (0) 20 7321 4888
+Fax: +44 (0) 20 7321 4890
+Email: infouk@cognizant.com
+
+India Operations Headquarters
+#5/535, Old Mahabalipuram Road
+Okkiyam Pettai, Thoraipakkam
+Chennai, 600 096 India
+Phone: +91 (0) 44 4209 6000
+Fax: +91 (0) 44 4209 6060
+Email: inquiryindia@cognizant.com
+
+  © Copyright 2011, Cognizant. All rights reserved. No part of this document may be reproduced, stored in a retrieval system, transmitted in any form or by any 
+means, electronic, mechanical, photocopying, recording, or otherwise, without the express written permission from Cognizant. The information contained herein is 
+subject to change without notice. All other trademarks mentioned herein are the property of their respective owners.
+
+

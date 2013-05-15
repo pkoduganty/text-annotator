@@ -1,0 +1,5 @@
+classpath*:org/cleartk/TypeSystem.xml
+classpath*:com/cognizant/dml/text/annotator/type/Markup.xml
+classpath*:com/cognizant/dml/text/annotator/type/MarkupAttribute.xml
+classpath*:com/cognizant/dml/text/annotator/type/JATETermChunk.xml
+classpath*:com/cognizant/dml/text/annotator/type/DBPediaResourceMention.xml

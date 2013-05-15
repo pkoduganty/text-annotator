@@ -1,0 +1,236 @@
+•  Cognizant Case Study
+
+Global Financial Services Provider Extends 
+Policy Management System to Enable 
+Greater Operational Efficiency
+
+Business Situation
+The customer is a wholly-owned subsidiary of one 
+of  the  largest  financial  services  and  insurance 
+groups in the U.S., with an international presence 
+in  Japan,  Brazil  and  the  UK.  Its  Japanese 
+subsidiary  started  business  in  December  2000 
+and specializes in individual annuity products. 
+
+By  emphasizing  product  development  and  risk 
+management  excellence,  coupled  with  superior 
+customer  and  distributor  service,  this  client  has 
+become a leader in the retirement savings, wealth 
+creation  and  financial  protection  solutions  space 
+and  is  focused  on  meeting  the  needs  of  Japan’s 
+expanding  retirement  income  market.  In  2006, 
+the  customer  launched  a  new  variable  annuity 
+product. 
+
+Challenge 
+With its affiliates, this client sought to enhance its 
+Ingenium policy administration system to accom-
+modate  repetitive  automated  annuity  payout 
+management  functionality  to  address  business 
+needs in Japan and the UK, as well as future inter-
+national expansion. 
+
+• 
+
+• 
+
+Leverage global development capabilities in a 
+cost-effective manner. 
+
+Add payout processing for fixed and variable 
+annuity products to Ingenium.
+
+This  client  wanted  to  replace  manual  work-
+arounds and reduce inefficient, manual processes 
+in  its Ingenium-based annuity business system to 
+facilitate  greater  business  integrity.  The  annuity 
+payout  framework  in  Ingenium  was  identified 
+as  software  that  could  automate  the  company’s 
+payout process.
+
+To  configure  the  base  Ingenium  package  to 
+accommodate  repetitive  payouts  for  variable/
+fixed annuity products, the annuity payout system 
+needed the following capabilities: 
+• 
+
+Variable and fixed automatic annuity payouts 
+with history tracking.
+
+• 
+
+• 
+
+• 
+
+Multiple options for payout  
+(partial and lump sum).
+
+Multi-currency payout and notification  
+to clients.
+
+Annuity contract maintenance.
+
+The objectives included the following:
+• 
+
+Leverage an internally developed annuity 
+payout solution (Ingenium), globally.
+
+The client hoped that the engagement would 
+enable: 
+• 
+
+On-time annuity payouts.
+
+cognizant case study | december 2011
+
+• 
+
+• 
+• 
+
+A framework for annuitization, which would 
+improve turnaround time for annuity payouts 
+for a future annuity product suite.
+
+Cost savings via global delivery.
+
+Increased reusability, which would reduce 
+overall effort.
+
+Solution
+Our  approach  required  the  base  system  to  be 
+configured  for  repetitive  payouts  for  variable 
+and fixed annuity products, with the capability of 
+automatic  annuity  payouts  with  history  enabled. 
+Other features included:
+• 
+
+Multiple options for payout  
+(partial and lump sum).
+
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+Multi-currency payout.
+
+Notification to clients.
+
+Annuity contract maintenance.
+
+External system interface.
+
+Annuitization deferral.
+
+Renewal of accumulation policy.
+
+Conversion to new products.
+
+We provided a complete solution, including require-
+ments gathering, solution design (both functional 
+and  technical),  testing  and  support  for  systems 
+integration  testing  and  business  acceptance 
+
+testing.  This  approach  completely  satisfied  the 
+client in achieving its business objectives.
+
+ Ingenium 6.5 on Solaris
+
+ MF-Cobol, Jscript, Rexx
+Languages:
+
+Application:
+
+Technology used included: 
+• 
+• 
+• 
+• 
+
+ Oracle
+Back-End:
+
+Front-End:
+
+ HTML / Pathfinder
+
+Human resources engaged:
+• 
+
+2010: 40 employees
+
+2009: 75 employees
+
+2008: 90 employees (peak strength)
+
+Onsite and offshore ratio: 30%/70% 
+ >
+ >
+ >
+Benefits
+• 
+Ability to make annuity payouts on time. 
+• 
+
+Cost saving due to effective utilization of 
+global delivery centers.
+
+• 
+• 
+
+• 
+
+• 
+
+Reusable components for global deployment.
+
+Successful creation of an annuitization 
+framework. 
+
+Productivity improvement through mainte-
+nance of the test cases repository.
+
+Successful creation of a knowledge repository.
+
+About Cognizant
+Cognizant  (NASDAQ:  CTSH)  is  a  leading  provider  of  information  technology,  consulting,  and  business  process  out-
+sourcing  services,  dedicated  to  helping  the  world’s  leading  companies  build  stronger  businesses.  Headquartered  in 
+Teaneck, New Jersey (U.S.), Cognizant combines a passion for client satisfaction, technology innovation, deep industry 
+and business process expertise, and a global, collaborative workforce that embodies the future of work. With over 50 
+delivery centers worldwide and approximately 130,000 employees as of September 30, 2011, Cognizant is a member of 
+the NASDAQ-100, the S&P 500, the Forbes Global 2000, and the Fortune 500 and is ranked among the top performing 
+and fastest growing companies in the world. Visit us online at www.cognizant.com or follow us on Twitter: Cognizant.
+
+World Headquarters
+500 Frank W. Burr Blvd.
+Teaneck, NJ 07666 USA
+Phone: +1 201 801 0233
+Fax: +1 201 801 0243
+Toll Free: +1 888 937 3277
+Email: inquiry@cognizant.com
+
+Cognizant Japan KK
+2F, Kojimachi Miyuki Bldg.
+3-4 Ni-bancho, Chiyoda-ku
+Tokyo – 102-0084, Japan
+Phone: 81-3-5216-6888
+
+India Operations Headquarters
+#5/535, Old Mahabalipuram Road
+Okkiyam Pettai, Thoraipakkam
+Chennai, 600 096 India
+Phone: +91 (0) 44 4209 6000
+Fax: +91 (0) 44 4209 6060
+Email: inquiryindia@cognizant.com
+
+  © Copyright 2011, Cognizant. All rights reserved. No part of this document may be reproduced, stored in a retrieval system, transmitted in any form or by any 
+means, electronic, mechanical, photocopying, recording, or otherwise, without the express written permission from Cognizant. The information contained herein is 
+subject to change without notice. All other trademarks mentioned herein are the property of their respective owners.
+
+

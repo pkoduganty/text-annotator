@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Markup</name>
+  <description/>
+  <version>1.0</version>
+  <imports>
+    <import name="com.cognizant.dml.text.annotator.type.MarkupAttribute"/>
+  </imports>
+  <types>
+    <typeDescription>
+      <name>com.cognizant.dml.text.annotator.type.Markup</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>name</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>attributes</name>
+          <description/>
+          <rangeTypeName>uima.cas.FSArray</rangeTypeName>
+          <elementType>com.cognizant.dml.text.annotator.type.MarkupAttribute</elementType>
+        </featureDescription>
+        <featureDescription>
+          <name>isStart</name>
+          <description/>
+          <rangeTypeName>uima.cas.Boolean</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  </types>
+</typeSystemDescription>
