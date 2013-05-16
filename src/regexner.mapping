@@ -1,7 +1,0 @@
-#regexner.mapping: file that stores rules, i.e., the mapping from regular expressions to NE classes. 
-# The format is one rule per line; each rule has two mandatory tokens separated by one tab. 
-# The first token stores the Java regular expression. 
-# The second token points to the NE class to assign when the regular expression matches one or a sequence of tokens. 
-# An optional third rule token indicates which regular named entity types can be overwritten by the current rule.
-# For example, the rule "U\.S\.A\. COUNTRY LOCATION" marks the token "U.S.A." as a COUNTRY, overwriting the previous LOCATION label (if it exists).
-\w+\s+	SENTENCE 

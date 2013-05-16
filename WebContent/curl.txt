@@ -1,4 +1,0 @@
-curl -i -H "Content-Type:text/plain" -X POST -d "my name is anthony gonzalez" "http://localhost:8088/text-annotator-rest-servlet/text"
-
-curl -i -H "Content-Type:text/plain" -X POST -d @filename "http://localhost:8088/text-annotator-rest-servlet/text"
-

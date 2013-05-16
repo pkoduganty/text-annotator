@@ -1,9 +1,0 @@
-# NAME	LOCATION	CASE-SENSITIVE	ORIG-STEM-LEMMA
-INDUSTRY	com/cognizant/dml/text/annotator/resource/industries.txt	false	STEM
-SERVICE	com/cognizant/dml/text/annotator/resource/services.txt	false	LEMMA
-ORGANIZATION	com/cognizant/dml/text/annotator/resource/companies.txt	true	ORIG
-JOB-TITLE	com/cognizant/dml/text/annotator/resource/job-titles.txt	false	ORIG
-COUNTRY	com/cognizant/dml/text/annotator/resource/countries.txt	false	ORIG
-CITY	com/cognizant/dml/text/annotator/resource/cities.txt	false	ORIG
-GEOGRAPHICAL-ENTITY	com/cognizant/dml/text/annotator/resource/geo-entities.txt	false	ORIG
-COMPUTER-TERM	com/cognizant/dml/text/annotator/resource/computer-terms.txt	false	LEMMA
